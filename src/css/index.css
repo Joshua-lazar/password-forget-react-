@@ -1,0 +1,16 @@
+/* Importing all CSS files */
+@import url('./Header.css');
+@import url('./bootstrap.css');
+@import url('./forget.css');
+
+/* Defaults */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Primary Variables */
+:root {
+  --primary: 'green';
+}
